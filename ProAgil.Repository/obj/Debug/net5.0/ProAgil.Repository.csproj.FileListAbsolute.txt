@@ -1,0 +1,15 @@
+C:\Users\T-Gamer\Desktop\dotnetcore\ProAgil.Repository\bin\Debug\net5.0\ProAgil.Repository.deps.json
+C:\Users\T-Gamer\Desktop\dotnetcore\ProAgil.Repository\bin\Debug\net5.0\ProAgil.Repository.dll
+C:\Users\T-Gamer\Desktop\dotnetcore\ProAgil.Repository\bin\Debug\net5.0\ref\ProAgil.Repository.dll
+C:\Users\T-Gamer\Desktop\dotnetcore\ProAgil.Repository\bin\Debug\net5.0\ProAgil.Repository.pdb
+C:\Users\T-Gamer\Desktop\dotnetcore\ProAgil.Repository\bin\Debug\net5.0\ProAgil.Domain.dll
+C:\Users\T-Gamer\Desktop\dotnetcore\ProAgil.Repository\bin\Debug\net5.0\ProAgil.Domain.pdb
+C:\Users\T-Gamer\Desktop\dotnetcore\ProAgil.Repository\obj\Debug\net5.0\ProAgil.Repository.csprojAssemblyReference.cache
+C:\Users\T-Gamer\Desktop\dotnetcore\ProAgil.Repository\obj\Debug\net5.0\ProAgil.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\T-Gamer\Desktop\dotnetcore\ProAgil.Repository\obj\Debug\net5.0\ProAgil.Repository.AssemblyInfoInputs.cache
+C:\Users\T-Gamer\Desktop\dotnetcore\ProAgil.Repository\obj\Debug\net5.0\ProAgil.Repository.AssemblyInfo.cs
+C:\Users\T-Gamer\Desktop\dotnetcore\ProAgil.Repository\obj\Debug\net5.0\ProAgil.Repository.csproj.CoreCompileInputs.cache
+C:\Users\T-Gamer\Desktop\dotnetcore\ProAgil.Repository\obj\Debug\net5.0\ProAgil.Repository.csproj.CopyComplete
+C:\Users\T-Gamer\Desktop\dotnetcore\ProAgil.Repository\obj\Debug\net5.0\ProAgil.Repository.dll
+C:\Users\T-Gamer\Desktop\dotnetcore\ProAgil.Repository\obj\Debug\net5.0\ref\ProAgil.Repository.dll
+C:\Users\T-Gamer\Desktop\dotnetcore\ProAgil.Repository\obj\Debug\net5.0\ProAgil.Repository.pdb
