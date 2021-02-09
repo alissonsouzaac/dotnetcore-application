@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "aQpeEbUafU3fhco33wWy80ssWHTtd39jcJ2/lGF/Kv3ln/n9wGqhiJfDHS3o+JuKlLyvM3WKLH6q3N8jDYA39w==",
+  "dgSpecHash": "M4dreV/4tcCE47TaY85+DvS8rmUIMJtSWDGMKAKrUJ/S9oQDXwoT5hEkhbq/r8TurbFNaKt8tqXDSE5Bt7GQgw==",
   "success": true,
-  "projectFilePath": "c:\\Users\\T-Gamer\\Desktop\\dotnetcore\\ProAgil.Repository\\ProAgil.Repository.csproj",
+  "projectFilePath": "C:\\Users\\T-Gamer\\Desktop\\dotnetcore\\ProAgil.Repository\\ProAgil.Repository.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\T-Gamer\\.nuget\\packages\\microsoft.data.sqlite.core\\5.0.2\\microsoft.data.sqlite.core.5.0.2.nupkg.sha512",
     "C:\\Users\\T-Gamer\\.nuget\\packages\\microsoft.dotnet.platformabstractions\\3.1.6\\microsoft.dotnet.platformabstractions.3.1.6.nupkg.sha512",

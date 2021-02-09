@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\T-Gamer\\Desktop\\dotnetcore\\ProAgil.Repository\\ProAgil.Repository.csproj": {}
+    "C:\\Users\\T-Gamer\\Desktop\\dotnetcore\\ProAgil.Repository\\ProAgil.Repository.csproj": {}
   },
   "projects": {
-    "c:\\Users\\T-Gamer\\Desktop\\dotnetcore\\ProAgil.Domain\\ProAgil.Domain.csproj": {
+    "C:\\Users\\T-Gamer\\Desktop\\dotnetcore\\ProAgil.Domain\\ProAgil.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\T-Gamer\\Desktop\\dotnetcore\\ProAgil.Domain\\ProAgil.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\T-Gamer\\Desktop\\dotnetcore\\ProAgil.Domain\\ProAgil.Domain.csproj",
         "projectName": "ProAgil.Domain",
-        "projectPath": "c:\\Users\\T-Gamer\\Desktop\\dotnetcore\\ProAgil.Domain\\ProAgil.Domain.csproj",
+        "projectPath": "C:\\Users\\T-Gamer\\Desktop\\dotnetcore\\ProAgil.Domain\\ProAgil.Domain.csproj",
         "packagesPath": "C:\\Users\\T-Gamer\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\T-Gamer\\Desktop\\dotnetcore\\ProAgil.Domain\\obj\\",
+        "outputPath": "C:\\Users\\T-Gamer\\Desktop\\dotnetcore\\ProAgil.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\T-Gamer\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -56,14 +56,14 @@
         }
       }
     },
-    "c:\\Users\\T-Gamer\\Desktop\\dotnetcore\\ProAgil.Repository\\ProAgil.Repository.csproj": {
+    "C:\\Users\\T-Gamer\\Desktop\\dotnetcore\\ProAgil.Repository\\ProAgil.Repository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\T-Gamer\\Desktop\\dotnetcore\\ProAgil.Repository\\ProAgil.Repository.csproj",
+        "projectUniqueName": "C:\\Users\\T-Gamer\\Desktop\\dotnetcore\\ProAgil.Repository\\ProAgil.Repository.csproj",
         "projectName": "ProAgil.Repository",
-        "projectPath": "c:\\Users\\T-Gamer\\Desktop\\dotnetcore\\ProAgil.Repository\\ProAgil.Repository.csproj",
+        "projectPath": "C:\\Users\\T-Gamer\\Desktop\\dotnetcore\\ProAgil.Repository\\ProAgil.Repository.csproj",
         "packagesPath": "C:\\Users\\T-Gamer\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\T-Gamer\\Desktop\\dotnetcore\\ProAgil.Repository\\obj\\",
+        "outputPath": "C:\\Users\\T-Gamer\\Desktop\\dotnetcore\\ProAgil.Repository\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\T-Gamer\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -78,8 +78,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "c:\\Users\\T-Gamer\\Desktop\\dotnetcore\\ProAgil.Domain\\ProAgil.Domain.csproj": {
-                "projectPath": "c:\\Users\\T-Gamer\\Desktop\\dotnetcore\\ProAgil.Domain\\ProAgil.Domain.csproj"
+              "C:\\Users\\T-Gamer\\Desktop\\dotnetcore\\ProAgil.Domain\\ProAgil.Domain.csproj": {
+                "projectPath": "C:\\Users\\T-Gamer\\Desktop\\dotnetcore\\ProAgil.Domain\\ProAgil.Domain.csproj"
               }
             }
           }
